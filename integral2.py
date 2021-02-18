@@ -18,6 +18,7 @@ res= integral(1,3,4)
 print (res)
 res= integral(1,3,100)
 print (res)
+print (integral (2,5,10))
 
 def precision(a,b,npoints,p):
    n=npoints
