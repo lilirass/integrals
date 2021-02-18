@@ -3,7 +3,7 @@ def integral(a,b,npoints):
     dx=(b-a)/(npoints)
     #define the function f(x), it can be any function
     def f(x):
-       return x**3
+       return 2*x 
     #B=sumf(i=odd) and C=sumf(i=even)
     B=0
     C=0
