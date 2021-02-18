@@ -54,7 +54,7 @@ def precision(a,b,npoints,p):
 
 print(precision(1,3,5,0.02))
 print(precision(1,3,10,0.002))
-
+print(precision(3,4,2,0.01))
 
  
       
