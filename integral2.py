@@ -3,7 +3,7 @@ def integral(a,b,npoints):
    
    dx=(b-a)/(npoints)
    def f(x):
-      return x**2
+      return x**3
    value=0
    n=1
    while n <=(npoints):
